@@ -1,8 +1,3 @@
-Got it! Here's a clean and simple `README.md` for your **Crypotnix** project — no credits, no license, just the essentials:
-
----
-
-### 📄 `README.md`
 
 ```markdown
 # 🔐 Crypotnix - Custom Cipher Language
