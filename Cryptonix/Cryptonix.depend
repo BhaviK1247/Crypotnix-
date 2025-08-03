@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1754217341 source:c:\users\bhavik mungekar\desktop\data structur\stacks\cryptonix\decoder.c
+	<stdio.h>
+	"encoder.h"
+
+1754217306 c:\users\bhavik mungekar\desktop\data structur\stacks\cryptonix\encoder.h
+
+1754217288 source:c:\users\bhavik mungekar\desktop\data structur\stacks\cryptonix\encoder.c
+	<stdio.h>
+	<ctype.h>
+	"encoder.h"
+
+1754217429 source:c:\users\bhavik mungekar\desktop\data structur\stacks\cryptonix\main.c
+	<stdio.h>
+	<string.h>
+	"encoder.h"
+
